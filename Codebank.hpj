@@ -1,0 +1,31 @@
+[OPTIONS]
+ERRORLOG=D:\Microsoft Visual Basic\codebank\codebank.ERR
+ROOT=D:\MICROS~1\CODEBANK
+COMPRESS=OFF
+CONTENTS = Hlp_VB_Code                                                     
+COPYRIGHT=Created by Rick Tharp
+REPORT=ON
+TITLE=VB Code Bank Help
+WARNING=1
+
+[WINDOWS]
+main="VB Code Bank Help", ( 419 , 0 , 561 , 901  ), 0 ,,
+HlpWnd02="Window 2", ( 511 , 0 , 511 , 1000  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd03="Window 3", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd04="Window 4", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd05="Window 5", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+HlpWnd06="Window 6", ( 255 , 511 , 511 , 511  ), 0 ,(r 14876671 ),(r 14876671 )
+
+[CONFIG]
+RR("mmsystem","sndPlaySound","Su")
+
+[BITMAPS]
+D:\MICROSOFT VISUAL BASIC\HELPWRITER32\GLOSSARY.SHG
+D:\Microsoft Visual Basic\codebank\codebank.bmp
+
+[MAP]
+Hlp_VB_Code  20
+GLOSSARY 64000
+
+[FILES]
+D:\Microsoft Visual Basic\codebank\codebank.p01
