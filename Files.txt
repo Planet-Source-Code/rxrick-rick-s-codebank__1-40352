@@ -1,0 +1,44 @@
+
+ Volume in drive C is PROGRAMS   
+ Volume Serial Number is 07D0-020E
+ Directory of C:\My Documents\VB6 PROJECTS\Ricks Codebank
+
+.              <DIR>        11-26-01  8:02a .
+..             <DIR>        11-26-01  8:02a ..
+ABOUT    FRM         5,052  11-26-01  8:04a About.frm
+ABOUT    FRX           189  05-19-99  5:37a about.frx
+BANK     ICO         1,078  05-25-99  4:43p BANK.ICO
+CODE     BMP           246  05-19-99  6:18a CODE.BMP
+FILES    TXT             0  11-26-01  8:40a files.txt
+CODEBANK BMP        81,078  05-27-99  3:55a CODEBANK.BMP
+CODEBANK DHP         7,877  05-25-99  5:36p CODEBANK.DHP
+CODEBANK EXE       184,320  11-26-01  8:37a CODEBANK.EXE
+CODEBANK VBP         1,226  11-26-01  8:38a codebank.Vbp
+CODEBANK HLP        39,820  05-27-99  8:42a CODEBANK.HLP
+CODEBANK HPJ         1,007  05-27-99  8:42a CODEBANK.HPJ
+CODEBANK MDB        86,016  03-09-00  8:43p CODEBANK.MDB
+CODEBANK RES           468  06-04-99  1:57p codebank.res
+CODERED  BMP           246  05-22-99 10:22a CODERED.BMP
+CONTXTID BAS        10,904  05-27-99  8:42a CONTXTID.BAS
+COPY     BMP           246  01-12-96 12:00a COPY.BMP
+DELETE   BMP           246  05-23-99  4:30p DELETE.BMP
+EDIT     BMP           246  05-24-99  2:26a EDIT.BMP
+EXIT     BMP           246  08-27-98 11:34a EXIT.BMP
+FOLDER   BMP           246  05-19-99  6:13a FOLDER.BMP
+HELP     BMP           246  08-03-98  7:33p HELP.BMP
+MAIN     BAS           400  06-04-99  1:58p main.bas
+MAIN     FRM        34,756  11-26-01  8:35a Main.FRM
+MAIN     FRX         5,314  11-26-01  8:35a Main.frx
+NOTE     BMP           246  05-22-99  7:37a NOTE.BMP
+OPEN     BMP           246  05-19-99  6:10a OPEN.BMP
+README   TXT         2,321  05-28-99  4:40a README.TXT
+REDO     BMP           246  01-12-96 12:00a REDO.BMP
+REPAIR   FRM         5,245  11-26-01  8:30a Repair.frm
+SAVE     BMP           246  01-12-96 12:00a SAVE.BMP
+SPLASH   FRM         1,751  11-26-01  8:04a Splash.frm
+SPLASH   FRX        82,180  11-26-01  8:04a Splash.frx
+STOP     BMP           246  05-28-99  3:49a STOP.bmp
+VB       BMP           246  05-22-99  7:33a VB.BMP
+WRENCH   BMP           246  05-23-99  5:07p WRENCH.BMP
+        35 file(s)        554,692 bytes
+         2 dir(s)        2,568.39 MB free
